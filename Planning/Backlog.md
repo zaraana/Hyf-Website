@@ -9,34 +9,22 @@ In software development and product management, a user story is an informal, nat
 ### Must-Haves
 
 > are necessary for basic usability.
+
 * As a user, I expect the website to be the navigation bar at first login.
 * As a user, I would like to understand briefly and clearly what the program is.
-* As a user ,I want to see the details of the program and how I can apply.
-* As a user, I want to get in touch quickly. 
+* As a user, I want to see the details of the program and how I can apply.
+* As a user, I want to get in touch quickly.
+* As a user, I would like to access HYF's social media accounts on the homepage.
 
 ### Should-Haves
 
 > will complete the user experience, but are not necessary.
 
+* As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
+  
 ### Could-Haves
 
 > would be really cool to develop if there's time.
 
-## User Stories of HYF Website:
-
-> Home Page
-
-| user story id | user story | 
-| ------------- | ---------- | 
-| US01          |            |                     
-| US02          |            |                     
-| US03          |            |                     
-| US04          |            |             
-| US05          |            |                     
-| US06          |            |                     
-| US07          |            |                     
-| US08          |            |                     
-| US09          |            |                     
-| US10          |            |                     
-| US11          |            |                     
-| US12          |            |                     
+* As a user, I would like to see icons that show that the site has different language options when I enter the site.
+  
