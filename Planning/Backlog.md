@@ -10,21 +10,22 @@ In software development and product management, a user story is an informal, nat
 
 > are necessary for basic usability.
 
-* As a user, I expect the website to be the navigation bar at first login.
-* As a user, I would like to understand briefly and clearly what the program is.
-* As a user, I want to see the details of the program and how I can apply.
-* As a user, I want to get in touch quickly.
-* As a user, I would like to access HYF's social media accounts on the homepage.
+- As a user, I expect the website to be the navigation bar at first login.
+- As a user, I would like to understand briefly and clearly what the program is.
+- As a user, I want to see the details of the program and how I can apply.
+- As a user, I want to get in touch quickly.
+- As a user, I would like to access HYF's social media accounts on the homepage.
+- As a user, I want to see logo of the HYF webpage in the top left corner of the page and clicked it will go to home page.
+- As a user, I want to see other pages (The Program, Volunteer, About, FAQ, Support Us, and Registration ) in the navigation bar.
 
 ### Should-Haves
 
 > will complete the user experience, but are not necessary.
 
-* As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
-  
+- As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
+
 ### Could-Haves
 
 > would be really cool to develop if there's time.
 
-* As a user, I would like to see icons that show that the site has different language options when I enter the site.
-  
+- As a user, I would like to see icons that show that the site has different language options when I enter the site.
