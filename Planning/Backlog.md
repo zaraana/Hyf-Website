@@ -17,12 +17,7 @@ In software development and product management, a user story is an informal, nat
 - As a user, I would like to access HYF's social media accounts on the homepage.
 - As a user, I want to see logo of the HYF webpage in the top left corner of the page and clicked it will go to home page.
 - As a user, I want to see other pages (The Program, Volunteer, About, FAQ, Support Us, and Registration ) in the navigation bar.
-* As a user, I expect the website to be the navigation bar at first login.
-* As a user, I would like to understand briefly and clearly what the program is.
-* As a user, I want to see the details of the program and how I can apply.
-* As a user, I want to get in touch quickly.
-* As a user, I would like to access HYF's social media accounts on the homepage.
-* As a user, I want the website text parts to be clear enough, complete and short to read.
+- As a user, I want the website text parts to be clear enough, complete and short to read.
 
 ### Should-Haves
 
