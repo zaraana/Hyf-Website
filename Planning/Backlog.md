@@ -9,6 +9,10 @@ In software development and product management, a user story is an informal, nat
 ### Must-Haves
 
 > are necessary for basic usability.
+* As a user, I expect the website to be the navigation bar at first login.
+* As a user, I would like to understand briefly and clearly what the program is.
+* As a user ,I want to see the details of the program and how I can apply.
+* As a user, I want to get in touch quickly. 
 
 ### Should-Haves
 
