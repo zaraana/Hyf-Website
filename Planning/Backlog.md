@@ -19,6 +19,8 @@ In software development and product management, a user story is an informal, nat
 - As a user, I want to see other pages (The Program, Volunteer, About, FAQ, Support Us, and Registration ) in the navigation bar.
 - As a user, I want the website text parts to be clear enough, complete and short to read.
 - As a user, I want to be able to see where the HYF school is located. 
+- As a user, I want to be able to read the values of HYF.
+- As a user, I want to be able to contact them.
 
 ### Should-Haves
 
