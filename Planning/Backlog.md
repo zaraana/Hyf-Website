@@ -18,6 +18,7 @@ In software development and product management, a user story is an informal, nat
 - As a user, I want to see logo of the HYF webpage in the top left corner of the page and clicked it will go to home page.
 - As a user, I want to see other pages (The Program, Volunteer, About, FAQ, Support Us, and Registration ) in the navigation bar.
 - As a user, I want the website text parts to be clear enough, complete and short to read.
+- As a user, I want to be able to see where the HYF school is located. 
 
 ### Should-Haves
 
@@ -28,6 +29,7 @@ In software development and product management, a user story is an informal, nat
 * As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
 * As a potential student, i would like to be able to see what hyf offers me in terms of courses, experiences and knowledge.
 
+
 ### Could-Haves
 
 > would be really cool to develop if there's time.
@@ -36,3 +38,4 @@ In software development and product management, a user story is an informal, nat
 
 * As a user, I would like to see icons that show that the site has different language options when I enter the site.
 * As a potential student, i would like to see a preview of all the things that i will learn during the course applied to the hyf website.
+* As a user, I would like to be able to see an interactive map to be able to see where the HYF is locate it, showing map details. 
