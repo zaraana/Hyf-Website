@@ -29,6 +29,12 @@
   - using the `help-wanted` label
 -->
 
+* Have meetings whenever it's possible for all group members;
+* Discuss all the step needed to accomplish a task;
+* Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
+* Help each other;
+* Do one task all together;
+
 ## Start Doing
 
 <!--
@@ -46,3 +52,9 @@
   what cool things or general lessons has your team learned?
   This can be about anything! code, collaboration, git, github, ...
 -->
+
+* How to create meaningful issues;
+* How to use specific labels and milestones;
+
+* Ask for help when needed;
+* Don't be ashamed to say "I didn't get it!"
