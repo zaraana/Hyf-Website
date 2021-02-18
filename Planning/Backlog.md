@@ -20,7 +20,8 @@ In software development and product management, a user story is an informal, nat
 
 
 *  As a user, I want to be able to read the values of HYF.
-*  As a user, I want to be able to contact them.
+*  As a user, I want to be able to contact them. 
+*  
 
 ### Should-Haves
 
