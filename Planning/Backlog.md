@@ -23,17 +23,9 @@ In software development and product management, a user story is an informal, nat
 - As a user, I want to be able to contact them.
 
 
-
-
-*  As a user, I want to be able to read the values of HYF.
-*  As a user, I want to be able to contact them. 
-*  
-
 ### Should-Haves
 
 > will complete the user experience, but are not necessary.
-
-- As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
 
 * As a potential student, I would like to sign up for a newsletter or a contact form to immediately get updates on the website and new courses.
 * As a potential student, i would like to be able to see what hyf offers me in terms of courses, experiences and knowledge.
@@ -42,8 +34,6 @@ In software development and product management, a user story is an informal, nat
 ### Could-Haves
 
 > would be really cool to develop if there's time.
-
-- As a user, I would like to see icons that show that the site has different language options when I enter the site.
 
 * As a user, I would like to see icons that show that the site has different language options when I enter the site.
 * As a potential student, i would like to see a preview of all the things that i will learn during the course applied to the hyf website.
