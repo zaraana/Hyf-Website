@@ -1,6 +1,3 @@
-# Planning
-
----
 
 ## Communication Schedule
 
@@ -27,7 +24,7 @@ How many hours does everyone have? and when are you generally available? [![SlAC
 |   Zara    |     09-12   |  12:00 - 21:00   |       12:00 - 21:00        |    12:00 - 21:00              |   12:00 - 21:00           |  12:00 - 21:00            |09-12
 |   Selim   |    08 - 12    |     12 -      |     12 -      |     08 - 21     |     12 -     |      -      | 08 - 12  |
 |   Zehra   |     09-12     |  09-14/20:30  | 09-14/20:30-  | 09-11:30/20:30- | 09-14/20:30- | 09-11/20:30 |   09-    |
-| Joeaponte |   20:30       |   20:30       |  20:30        |      20:30      |    20:30     |    20:30    |
+| Joeaponte |               |               |               |                 |              |             |
 |   Kazem   |               |               |               |                 |              |             |
 
 ## Asking for Help
