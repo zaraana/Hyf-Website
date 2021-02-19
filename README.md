@@ -1,4 +1,4 @@
-# Hackyourfuture.be Home Page
+# Hackyourfuture.be Website
 
 In the 2nd and 3rd week of HackYourFutureBE web development course, we are building homepage of the hackyourfuture.be website together as a group.
 
