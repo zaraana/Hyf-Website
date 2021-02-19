@@ -34,6 +34,7 @@
 * Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
 * Help each other;
 * Do one task all together;
+* Promote pair-programming
 
 ## Start Doing
 
@@ -46,6 +47,8 @@
   - use the github integration in slack. /github
 -->
 
+* I think we need to start coding and deliver earlier than Thursday, for having any of the coaches to review  the group project and improve as group.
+
 ## Learned Lessons
 
 <!--
@@ -57,4 +60,4 @@
 * How to use specific labels and milestones;
 
 * Ask for help when needed;
-* Don't be ashamed to say "I didn't get it!"
+* Don't be ashamed to say "I didn't get it!" 
