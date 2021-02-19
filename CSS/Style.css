@@ -1,0 +1,46 @@
+/* Banner  */
+
+body{
+    width: auto;
+    height: 100%    ;
+}
+
+.banner{
+    width: auto;
+    overflow:hidden;
+    margin:0;
+    height: 390px;
+    -webkit-filter: brightness(650%);
+    filter: brightness(65%);
+    position: absolute;
+    left:0;
+    top: 83px;
+}
+.banner img{
+
+    display:block;
+    width:100%;
+    margin:-380px 0;
+}
+
+.hlt-ittw{
+    
+    font-size: 64px;
+    line-height: 120%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 770;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    max-width: none;
+    position: absolute;
+    left: 390px;
+    top: 165px;
+    z-index: 1;
+    display: block;
+}
+
+/* Banner end */
+
+/* Footer*/
