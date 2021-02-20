@@ -44,6 +44,7 @@ body {
 /*Contact Us*/
 
 .contact {
+    margin-top: 500px;
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
