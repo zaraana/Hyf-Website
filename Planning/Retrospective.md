@@ -29,12 +29,12 @@
   - using the `help-wanted` label
 -->
 
-* Have meetings whenever it's possible for all group members;
-* Discuss all the step needed to accomplish a task;
-* Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
-* Help each other;
-* Do one task all together;
-* Promote pair-programming
+- Have meetings whenever it's possible for all group members;
+- Discuss all the step needed to accomplish a task;
+- Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
+- Help each other;
+- Do one task all together;
+- Promote pair-programming
 
 ## Start Doing
 
@@ -47,7 +47,7 @@
   - use the github integration in slack. /github
 -->
 
-* I think we need to start coding and deliver earlier than Thursday, for having any of the coaches to review  the group project and improve as group.
+- I think we need to start coding and deliver earlier than Thursday, for having any of the coaches to review the group project and improve as group.
 
 ## Learned Lessons
 
@@ -56,8 +56,11 @@
   This can be about anything! code, collaboration, git, github, ...
 -->
 
-* How to create meaningful issues;
-* How to use specific labels and milestones;
+- How to create meaningful issues;
+- How to use specific labels and milestones;
 
-* Ask for help when needed;
-* Don't be ashamed to say "I didn't get it!" 
+- Ask for help when needed;
+- Don't be ashamed to say "I didn't get it!"
+
+- How to write codes for create branch and commit on terminal.
+- Exercises on terminal at our meetings..
