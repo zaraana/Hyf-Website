@@ -18,6 +18,8 @@
   - claiming more issues at once than you can finish
 -->
 
+- As a group, we stopped committing with the same branch name. Now, we push the improvements we make by creating a special branch for each work.
+
 ## Continue Doing
 
 <!--
