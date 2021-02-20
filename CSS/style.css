@@ -222,6 +222,8 @@ button {
   margin: 0px auto;
 }
 
+ 
+
 .story {
   width: 100%;
   display: flex;
@@ -302,6 +304,7 @@ button {
   margin: 0px;
   padding: 0px;
 }
+
 
 .name-h4 {
   font-size: 18px;
