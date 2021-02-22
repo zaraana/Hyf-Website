@@ -48,7 +48,6 @@ body {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
-  width: 100%;
   padding: 50px 20px;
   position: relative;
   box-shadow: none;
@@ -143,6 +142,8 @@ body {
 
   display: flex;
   flex-direction: row;
+  align-items: stretch;
+  max-height: 40%;
   height: 40%;
   justify-content: flex-start;
   max-height: none;
@@ -200,16 +201,10 @@ body {
 
 .story-1 {
   position: absolute;
-  width: 400%;
-  box-sizing: border-box;
-  display: flex;
-  transform: translateX(0%);
-  transition: transform 0.3s ease 0s;
 }
 
 .name {
-  width: 100%;
-  max-width: 25%;
+  max-width: 100%;
   min-height: 500px;
   box-sizing: border-box;
   opacity: 1;
@@ -230,7 +225,6 @@ body {
 }
 
 .title-name {
-
   
   -webkit-box-align: stretch;
   align-items: stretch;
