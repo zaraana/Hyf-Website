@@ -287,3 +287,72 @@ body {
 
 
 /* Footer*/
+
+.footer-container {
+  width: 320px;
+    height: 140px;
+    padding: 20px;
+    position: absolute;
+    top: 500%;
+    left: 50%;
+    margin-left: -160px;
+    margin-top: -70px;
+    text-align: center;
+
+
+  
+}
+
+.h3-footer {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: center;
+}
+
+.p-footer {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  font-weight: 300;
+}
+
+.hyf-email {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  font-weight: 300;
+}
+
+.social-media-footer {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0px;
+  padding: 0px;
+}
+
+.link-social-media {
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px 10px;
+  font-weight: 300;
+}
+
+.icon-social-media {
+  width: 26px;
+  height: 26px;
+}
