@@ -180,7 +180,7 @@ button {
   width: 100%;
   z-index: auto;
   position: relative;
-  background: url("/../images/our-program.jpg") 0% 0% / cover transparent;
+  background: url("./images/our-program.jpg") 0% 0% / cover transparent;
   flex: 0 1 100%;
   margin: 0px;
   padding: 0px;
