@@ -284,18 +284,15 @@ body {
   word-break: break-word;
   font-weight: 300;
 }
-
 /*Contact Us*/
 
 .contact {
-  margin-top: 500px;
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
-  width: 100%;
   padding: 0px;
   margin-top: 50px;
-  position: relative;
+  position: absolute;
   box-shadow: none;
   background: none;
   z-index: 1;
@@ -303,43 +300,45 @@ body {
   box-shadow: border-box;
   font-family: sans-serif;
   border: 0;
+  width: 100%;
 }
 .contact-d1 {
-  display: flex;
-  width: 100%;
+    display: flex;
 }
 .contact-d2 {
   display: flex;
   flex-direction: column;
-  width: 40%;
-  height: 100%;
   background-color: rgb(74, 80, 187);
   padding: 50px 100px;
+  position: absolute;
   box-sizing: border-box;
+  top:270%;
+  width: 100%;
+  right: 530px;
 }
 .contact-d3 {
   display: flex;
-  width: 60%;
-  height: 100%;
-  min-height: 400px;
-  padding-left: 60px;
   background-color: transparent;
-  border: 0;
+  position:relative;
+  top:270%;
+  width:900px;
+  left: 300px;
+  height: 685px;
 }
 .contact-h1 {
-  font-size: 24px;
-  line-height: 140%;
-  margin-bottom: 20px;
-  text-transform: uppercase;
-  font-family: "Work Sans", sans-serif;
-  font-weight: 700;
-  color: rgb(255, 255, 255);
-  text-align: left;
-  max-width: none;
+    font-size: 24px;
+    line-height: 140%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    max-width: none;
 }
 .contact-p {
   color: white;
-  text-align: left;
+  text-align: center;
   max-width: 500px;
   line-height: 160%;
   font-size: 16px;
@@ -385,32 +384,32 @@ body {
   width: 100%;
 }
 .contact-textarea {
-  border: 1px solid white;
-  border-radius: 3px;
-  outline: none;
-  padding: 10px 5px;
-  color: white;
-  background-color: transparent;
-  margin-bottom: 20px;
-  width: 100%;
+    border: 1px solid white;
+    border-radius: 3px;
+    outline: none;
+    padding: 10px 5px;
+    color: white;
+    background-color: transparent;
+    margin-bottom: 20px;
+    width: 100%;
 }
 .contact-button {
-  display: inline-flex;
-  font-size: 12px;
-  line-height: 160%;
-  text-decoration: none;
-  background-color: white;
-  color: rgb(45, 48, 55);
-  font-weight: 600;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  box-sizing: border-box;
-  padding: 10px 20px;
-  cursor: pointer;
-  text-transform: uppercase;
-  -webkit-box-align: center;
-  align-items: center;
-  font-family: "Work Sans", sans-serif;
+    display: inline-flex;
+    font-size: 12px;
+    line-height: 160%;
+    text-decoration: none;
+    background-color: white;
+    color: rgb(45, 48, 55);
+    font-weight: 600;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: "Work Sans", sans-serif;
 }
 .contact-iframe {
   width: 100%;
