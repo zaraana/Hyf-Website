@@ -11,20 +11,15 @@ header {
   min-height: 85px;
   box-sizing: border-box;
   padding: 20px 20px;
-  
 }
 .logo {
   margin-left: 95px;
   margin-right: auto;
   margin-top: -15px;
-  
-
 }
 .top menu {
   display: inline-block;
   list-style: none;
-  
-  
 }
 a {
   font-family: sans-serif;
@@ -32,7 +27,6 @@ a {
   font-size: 11px;
   text-decoration: none;
   padding: 20px 20px;
-  
 }
 .menu:hover {
   border-bottom-style: solid;
@@ -188,7 +182,6 @@ button {
   align-items: stretch;
 }
 .coloumn2_img {
-
   display: flex;
   flex-direction: row;
   align-items: stretch;
@@ -204,6 +197,194 @@ button {
 }
 /* Our Program End*/
 
+/* Our Impact*/
+
+.margin-our-impact {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+  margin: 0px;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.border-our-impact {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: rgb(0 0 0 / 8%) 0px 53px;
+  padding: 50px;
+  margin-bottom: 50px;
+  line-height: 1;
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  margin: 0px 0px 50px;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.our-impact {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.upper-box {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: 800px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.all-boxes {
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.rectangule-inside-one {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.inside-box {
+  color: white;
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.regular-box {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(74, 80, 187);
+  width: 30%;
+  padding: 20px;
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+/* Our  Impact Ends*/
+
 /* Our Success Stories*/
 
 .success-stories {
@@ -218,7 +399,6 @@ button {
   padding: 10px 0px;
   margin: 0px auto;
 }
-
 
 .story {
   width: 100%;
@@ -247,7 +427,6 @@ button {
   box-sizing: border-box;
 }
 
-
 .story-1 {
   position: absolute;
 }
@@ -274,7 +453,6 @@ button {
 }
 
 .title-name {
-  
   -webkit-box-align: stretch;
   align-items: stretch;
   box-shadow: none;
@@ -294,7 +472,6 @@ button {
   margin: 0px;
   padding: 0px;
 }
-
 
 .name-h4 {
   font-size: 18px;
@@ -334,24 +511,23 @@ button {
   font-weight: 300;
 }
 
-
 /* SUPPORT THE DEVELOPERS OF TOMORROW */
 .support {
   background: rgb(248, 249, 252);
-  position:absolute;
+  position: absolute;
   top: 200%;
-  left: -70%; 
-  width: 230%; 
+  left: -70%;
+  width: 230%;
   height: 120%;
   float: right;
-  }
+}
 
-  .grid {
-    display: grid;  
-    grid-template-columns: repeat(2, 1fr);
-    overflow: hidden;
-    padding: 50px 10px 50px 20px;
-    float: right;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  overflow: hidden;
+  padding: 50px 10px 50px 20px;
+  float: right;
 }
 .tittle-support h1 {
   font-family: "Work Sans", sans-serif;
@@ -370,7 +546,7 @@ button {
   line-height: 160%;
   color: rgb(45, 48, 55);
   text-align: left;
-  left:17%;
+  left: 17%;
   font-weight: 300;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -445,7 +621,6 @@ button {
   cursor: pointer;
   -moz-box-align: center;
   align-items: center;
-
 }
 
 /*/*contact*/
@@ -466,7 +641,7 @@ button {
   width: 100%;
 }
 .contact-d1 {
-    display: flex;
+  display: flex;
 }
 .contact-d2 {
   display: flex;
@@ -475,31 +650,29 @@ button {
   padding: 50px 100px;
   position: absolute;
   box-sizing: border-box;
-  top:235%;
+  top: 235%;
   width: 100%;
   right: 530px;
-
 }
 .contact-d3 {
   display: flex;
   background-color: transparent;
-  position:relative;
-  top:235%;
-  width:900px;
+  position: relative;
+  top: 235%;
+  width: 900px;
   left: 300px;
   height: 685px;
-
 }
 .contact-h1 {
-    font-size: 24px;
-    line-height: 140%;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    font-family: "Work Sans", sans-serif;
-    font-weight: 700;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    max-width: none;
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  max-width: none;
 }
 .contact-p {
   color: white;
@@ -547,35 +720,34 @@ button {
   padding: 10px 5px;
   color: white;
   width: 100%;
-  
 }
 .contact-textarea {
-    border: 1px solid white;
-    border-radius: 3px;
-    outline: none;
-    padding: 10px 5px;
-    color: white;
-    background-color: transparent;
-    margin-bottom: 20px;
-    width: 100%;
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: none;
+  padding: 10px 5px;
+  color: white;
+  background-color: transparent;
+  margin-bottom: 20px;
+  width: 100%;
 }
 .contact-button {
-    display: inline-flex;
-    font-size: 12px;
-    line-height: 160%;
-    text-decoration: none;
-    background-color: white;
-    color: rgb(45, 48, 55);
-    font-weight: 600;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    box-sizing: border-box;
-    padding: 10px 20px;
-    cursor: pointer;
-    text-transform: uppercase;
-    -webkit-box-align: center;
-    align-items: center;
-    font-family: "Work Sans", sans-serif;
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(45, 48, 55);
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
 }
 .contact-iframe {
   width: 100%;
@@ -586,14 +758,14 @@ button {
 
 .footer-container {
   width: 320px;
-    height: 140px;
-    padding: 20px;
-    position: absolute;
-    top: 490%;
-    left: 40%;
-    margin-left: -160px;
-    margin-top: -70px;
-    text-align:center;
+  height: 140px;
+  padding: 20px;
+  position: absolute;
+  top: 490%;
+  left: 40%;
+  margin-left: -160px;
+  margin-top: -70px;
+  text-align: center;
 }
 
 .h3-footer {
@@ -644,11 +816,9 @@ button {
   margin: 0px 10px;
   font-weight: 300;
   margin-bottom: 40px;
-  
 }
 
 .icon-social-media {
   width: 26px;
   height: 26px;
-
 }
