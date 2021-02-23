@@ -2,7 +2,6 @@ body {
   width: auto;
   height: 100%;
   line-height: 1;
-  justify-content: center;
 }
 /* Header */
 header {
@@ -12,22 +11,28 @@ header {
   min-height: 85px;
   box-sizing: border-box;
   padding: 20px 20px;
+  
 }
 .logo {
-  margin-left: 20px;
+  margin-left: 95px;
   margin-right: auto;
-  float: left;
+  margin-top: -15px;
+  
+
 }
 .top menu {
   display: inline-block;
   list-style: none;
+  
+  
 }
 a {
   font-family: sans-serif;
   color: rgb(179, 179, 179);
-  font-size: 16px;
+  font-size: 11px;
   text-decoration: none;
   padding: 20px 20px;
+  
 }
 .menu:hover {
   border-bottom-style: solid;
@@ -46,6 +51,7 @@ button {
   cursor: pointer;
   -moz-box-align: center;
   align-items: center;
+  right: 100px;
 }
 
 /* Banner  */
