@@ -286,6 +286,119 @@ body {
 }
 
 
+/* SUPPORT THE DEVELOPERS OF TOMORROW */
+.support {
+  background: rgb(248, 249, 252);
+  position:absolute;
+  top: 220%;
+  left: -70%; 
+  width: 230%; 
+  height: 130%;
+  float: right;
+  }
+
+  .grid {
+    display: grid;  
+    grid-template-columns: repeat(2, 1fr);
+    overflow: hidden;
+    padding: 50px 10px 50px 20px;
+    float: right;
+}
+.tittle-support h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+  line-height: 140%;
+  color: rgb(28, 34, 148);
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 50px;
+}
+
+.tittle-support p {
+  font-family: "Space Mono", monospace;
+  position: absolute;
+  font-size: 17px;
+  line-height: 160%;
+  color: rgb(45, 48, 55);
+  text-align: left;
+  left:17%;
+  font-weight: 300;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.amount p {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  font-size: 16px;
+  font-family: sans-serif;
+  padding: 20px 0px 20px 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.choose label {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.prices ul {
+  display: flex;
+  padding: 0px 0px 0px 0px;
+  font-weight: 300;
+}
+
+.prices li {
+  border: 1px solid rgb(28, 34, 148);
+  padding: 15px 20px 15px 20px;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  color: rgb(28, 34, 148);
+  font-family: sans-serif;
+  list-style: none;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.prices .selected {
+  background-color: rgb(28, 34, 148);
+  color: rgb(255, 255, 255);
+}
+.camp-text p {
+  margin-right: 230px;
+  margin-top: 20px;
+}
+.camp-text .text {
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgb(28, 34, 148);
+  width: 450px;
+  outline: none;
+  color: rgb(28, 34, 148);
+  font-size: 16px;
+}
+
+.amount button {
+  margin-top: 20px;
+  padding: 10px 20px 10px 20px;
+}
+button {
+  font-family: "Work Sans", sans-serif;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  -moz-box-align: center;
+  align-items: center;
+
+}
+
 /* Footer*/
 
 .footer-container {
