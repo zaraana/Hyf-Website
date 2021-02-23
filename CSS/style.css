@@ -2,6 +2,51 @@ body {
   width: auto;
   height: 100%;
   line-height: 1;
+  justify-content: center;
+  min-width: 100%;
+}
+/* Header */
+header {
+  display: flex;
+  width: 100%;
+  height: 85px;
+  min-height: 85px;
+  box-sizing: border-box;
+  padding: 20px 20px;
+}
+.logo {
+  margin-left: 20px;
+  margin-right: auto;
+  float: left;
+}
+.top menu {
+  display: inline-block;
+  list-style: none;
+}
+a {
+  font-family: sans-serif;
+  color: rgb(179, 179, 179);
+  font-size: 16px;
+  text-decoration: none;
+  padding: 20px 20px;
+}
+.menu:hover {
+  border-bottom-style: solid;
+  border-color: darkblue;
+}
+button {
+  font-family: "Work Sans", sans-serif;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0px 20px;
+  cursor: pointer;
+  -moz-box-align: center;
+  align-items: center;
 }
 
 /* Banner  */
@@ -139,7 +184,6 @@ body {
   align-items: stretch;
 }
 .coloumn2_img {
-
   display: flex;
   flex-direction: row;
   align-items: stretch;
@@ -170,7 +214,6 @@ body {
   margin: 0px auto;
 }
 
-
 .story {
   width: 100%;
   display: flex;
@@ -198,7 +241,6 @@ body {
   box-sizing: border-box;
 }
 
-
 .story-1 {
   position: absolute;
 }
@@ -225,7 +267,6 @@ body {
 }
 
 .title-name {
-  
   -webkit-box-align: stretch;
   align-items: stretch;
   box-shadow: none;
@@ -245,7 +286,6 @@ body {
   margin: 0px;
   padding: 0px;
 }
-
 
 .name-h4 {
   font-size: 18px;
@@ -285,24 +325,23 @@ body {
   font-weight: 300;
 }
 
-
 /* SUPPORT THE DEVELOPERS OF TOMORROW */
 .support {
   background: rgb(248, 249, 252);
-  position:absolute;
+  position: absolute;
   top: 220%;
-  left: -70%; 
-  width: 230%; 
+  left: -70%;
+  width: 230%;
   height: 130%;
   float: right;
-  }
+}
 
-  .grid {
-    display: grid;  
-    grid-template-columns: repeat(2, 1fr);
-    overflow: hidden;
-    padding: 50px 10px 50px 20px;
-    float: right;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  overflow: hidden;
+  padding: 50px 10px 50px 20px;
+  float: right;
 }
 .tittle-support h1 {
   font-family: "Work Sans", sans-serif;
@@ -321,7 +360,7 @@ body {
   line-height: 160%;
   color: rgb(45, 48, 55);
   text-align: left;
-  left:17%;
+  left: 17%;
   font-weight: 300;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -396,24 +435,21 @@ button {
   cursor: pointer;
   -moz-box-align: center;
   align-items: center;
-
 }
 
 /* Footer*/
 
 .footer-container {
   width: 320px;
-    height: 140px;
-    padding: 20px;
-    position: absolute;
-    top: 500%;
-    left: 50%;
-    margin-left: -160px;
-    margin-top: -70px;
-    text-align: center;
-
-
-  
+  height: 140px;
+  padding: 20px;
+  position: absolute;
+  top: 500%;
+  left: 50%;
+  margin-bottom: 20px;
+  margin-left: -160px;
+  margin-top: -70px;
+  text-align: center;
 }
 
 .h3-footer {
