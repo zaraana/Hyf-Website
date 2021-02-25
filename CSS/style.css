@@ -822,3 +822,59 @@ button {
   width: 26px;
   height: 26px;
 }
+
+/* Our Core Values */
+
+.margin-our-core-values{
+  display: flex;
+  -moz-box-pack: end;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 50px 0px;
+  position: relative;
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+  z-index: 1;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.rectangle-core-values{
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.values-frame{
+  padding-top: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  flex-direction: column;
+  display: flex;
+  background-color: rgb(248, 249, 252);
+}
+.rectangle-paragraph{
+  display: flex;
+  flex-wrap: wrap;
+  -moz-box-pack: justify;
+  -moz-box-flex: 1;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.margin-images{
+  width: 40%;
+  flex-direction: column;
+  display: flex;
+  align-items: flex-start;
+}
