@@ -825,56 +825,72 @@ button {
 
 /* Our Core Values */
 
-.margin-our-core-values{
-  display: flex;
-  -moz-box-pack: end;
-  justify-content: flex-end;
-  width: 100%;
-  padding: 50px 0px;
-  position: relative;
-  box-shadow: none;
-  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
-  z-index: 1;
-  flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: auto;
+.margin-our-core-values {
+margin: 10px 10px 10px;
+justify-content: center;
+width: 88%;
+height: 60%;
+position:relative;
+box-shadow: none;
+background: none;
+margin-left: 6%;
 }
 
-.rectangle-core-values{
-  -moz-box-pack: center;
-  justify-content: center;
-  -moz-box-align: center;
-  align-items: center;
-  width: 100%;
-  max-width: 1280px;
-  padding: 10px 0px;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  display: flex;
-  flex-direction: column;
+.rectangle-core-values {
+ margin: 20px 20px 20px 20px;
+ background-color: rgb(248, 249, 252);
 }
-.values-frame{
-  padding-top: 100px;
-  padding-right: 100px;
-  padding-bottom: 100px;
-  padding-left: 100px;
-  flex-direction: column;
-  display: flex;
-  background-color: rgb(248, 249, 252);
+
+.values-frame {
+margin: 20px 20px 20px 20px;
 }
-.rectangle-paragraph{
-  display: flex;
-  flex-wrap: wrap;
-  -moz-box-pack: justify;
-  -moz-box-flex: 1;
-  justify-content: space-between;
-  flex-grow: 1;
+
+.column {
+float: left;
+width: 50%;
+padding: 40px;
+box-sizing: border-box;
+line-height: 160%;
+font-size: 16px;
+font-family:monospace;
+height: 50%;
 }
-.margin-images{
-  width: 40%;
-  flex-direction: column;
-  display: flex;
-  align-items: flex-start;
+
+.title {
+  padding: 50px 0px 0px 38px;
+  color:rgb(28, 34, 148);
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
 }
+
+.subtitle {
+  font-size: 20px;
+  line-height: 140%;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+}
+
+.paragraph {
+  color: rgb(45, 48, 55);
+  float:left;
+  font-family: monospace;
+}
+
+.paragraph {
+  content: "";
+  display: table;
+  clear: both;
+  box-sizing: border-box;
+}
+
+
+
+
