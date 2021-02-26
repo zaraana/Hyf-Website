@@ -985,3 +985,75 @@ button {
   width: 26px;
   height: 26px;
 }
+
+/* Our Core Values */
+
+.margin-our-core-values {
+margin: 10px 10px 10px;
+justify-content: center;
+width: 88%;
+height: 60%;
+position:relative;
+box-shadow: none;
+background: none;
+margin-left: 6%;
+}
+
+.rectangle-core-values {
+ margin: 20px 20px 20px 20px;
+ background-color: rgb(248, 249, 252);
+}
+
+.values-frame {
+margin: 20px 20px 20px 20px;
+}
+
+.column {
+float: left;
+width: 50%;
+padding: 40px;
+box-sizing: border-box;
+line-height: 160%;
+font-size: 16px;
+font-family:monospace;
+height: 50%;
+}
+
+.title {
+  padding: 50px 0px 0px 38px;
+  color:rgb(28, 34, 148);
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.subtitle {
+  font-size: 20px;
+  line-height: 140%;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+}
+
+.paragraph {
+  color: rgb(45, 48, 55);
+  float:left;
+  font-family: monospace;
+}
+
+.paragraph {
+  content: "";
+  display: table;
+  clear: both;
+  box-sizing: border-box;
+}
+
+
+
+
