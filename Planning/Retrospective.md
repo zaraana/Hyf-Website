@@ -18,6 +18,8 @@
   - claiming more issues at once than you can finish
 -->
 
+- As a group, we stopped committing with the same branch name. Now, we push the improvements we make by creating a special branch for each work.
+
 ## Continue Doing
 
 <!--
@@ -29,11 +31,12 @@
   - using the `help-wanted` label
 -->
 
-* Have meetings whenever it's possible for all group members;
-* Discuss all the step needed to accomplish a task;
-* Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
-* Help each other;
-* Do one task all together;
+- Have meetings whenever it's possible for all group members;
+- Discuss all the step needed to accomplish a task;
+- Explain even the simplest task once and twice using screen share and making all the group members trying it so to make sure that everyone understood it;
+- Help each other;
+- Do one task all together;
+- Promote pair-programming
 
 ## Start Doing
 
@@ -46,6 +49,8 @@
   - use the github integration in slack. /github
 -->
 
+- I think we need to start coding and deliver earlier than Thursday, for having any of the coaches to review the group project and improve as group.
+
 ## Learned Lessons
 
 <!--
@@ -53,11 +58,12 @@
   This can be about anything! code, collaboration, git, github, ...
 -->
 
-* How to create meaningful issues;
-* How to use specific labels and milestones;
+- How to create meaningful issues;
+- How to use specific labels and milestones;
 
-* Ask for help when needed;
-* Don't be ashamed to say "I didn't get it!"
+- Ask for help when needed;
+- Don't be ashamed to say "I didn't get it!"
+
 
 # Retrospective week 2
 
@@ -69,7 +75,6 @@
 -->
 
 ## Stop Doing
-
 <!--
   what did your group do that did not go very well
   agree to stop doing this in the next project
@@ -80,7 +85,6 @@
 -->
 
 ## Continue Doing
-
 <!--
   what did your group that worked well
   agree to keep doing these in the next project
@@ -91,9 +95,7 @@
 -->
 
 
-
 ## Start Doing
-
 <!--
   what ideas does your group have for making a better project next time?
   agree to give these things a try in the next project
@@ -108,4 +110,6 @@
 <!--
   what cool things or general lessons has your team learned?
   This can be about anything! code, collaboration, git, github, ...
--->
+- How to write codes for create branch and commit on terminal.
+- Exercises on terminal at our meetings..
+
