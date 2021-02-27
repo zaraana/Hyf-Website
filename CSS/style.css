@@ -87,7 +87,7 @@ button {
 
 /*  Our Program */
 .our-program {
-  margin-top: 500px;
+  margin-top: 350px;
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
@@ -209,7 +209,7 @@ button {
   background: none;
   z-index: 1;
   flex: 0 0 auto;
-  top:160%;
+  top:145%;
   left:7%;
   margin: 0px;
   border: 0;
@@ -246,9 +246,9 @@ button {
   flex-direction: column;
   -webkit-box-align: center;
   align-items: center;
-  box-shadow: rgb(0 0 0 / 0%) 0px 53px;
   padding: 50px;
   margin-bottom: 50px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
   line-height: 1;
   margin: 0;
   border: 0;
@@ -401,7 +401,7 @@ button {
   padding: 10px 0px;
   margin: 0px auto;
   position:absolute;
-  top:350%;
+  top:330%;
   left: 7%;
 }
 
@@ -518,158 +518,103 @@ button {
 
 /* Our Partners starts */
 
-.margin-partners {
-  display: flex;
-  -webkit-box-pack: center;
-  justify-content: center;
+.our-partners {
   width: 100%;
-  padding: 50px 20px;
+  height: 450px;
+  background-color: transparent;
   position: absolute;
-  top:90%;
-  box-shadow: none;
-  background: none;
-  z-index: 1;
-  flex: 0 0 auto;
-  margin: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-.frame-partners {
-  display: flex;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  align-items: center;
-  width: 100%;
-  max-width: 1280px;
-  padding: 10px 0px;
-  margin: 0px auto;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
+  top: 112%;
 }
 
-.mini-margin-partners {
-  display: flex;
-  width: 100%;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  -webkit-box-align: center;
-  align-items: center;
-  margin: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
+.partners-container {
+  padding-top: 10px;
+  background-color: transparent;
+  height: 340px;
 }
 
-.our-partners-title {
-  margin: 0;
+.header {
   font-size: 24px;
-  line-height: 140%;
-  text-transform: uppercase;
   font-family: "Work Sans", sans-serif;
-  font-weight: 700;
   color: rgb(28, 34, 148);
   text-align: left;
-  max-width: none;
-  padding: 0;
-  border: 0;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
+  margin-top: 90px;
+  position:relative;
+  right: 350px;
 }
 
-.mail {
-  display: inline-flex;
-  font-size: 12px;
-  line-height: 160%;
-  text-decoration: none;
-  font-weight: 600;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  box-sizing: border-box;
-  padding: 10px 20px;
-  cursor: pointer;
-  text-transform: uppercase;
-  -webkit-box-align: center;
-  align-items: center;
-  font-family: "Work Sans", sans-serif;
-  background-color: transparent;
-  color: rgb(74, 80, 187);
-  margin: 0;
-  font-style: normal;
-  vertical-align: baseline;
-}
-
-.logos-square {
+.first-row {
   display: flex;
-  flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
+  justify-content: space-evenly;
+  background-color: transparent;
+  height:200px;
 }
 
-.logos-spec {
-  -webkit-box-align: stretch;
-  align-items: stretch;
-  box-shadow: none;
-  box-sizing: border-box;
-  display: inline-block;
-  flex-direction: row;
-  -webkit-box-flex: start;
-  justify-content: flex-start;
-  max-height: none;
-  max-width: none;
-  width: 170px;
-  z-index: 0;
-  position: static;
-  background: none 0% 0% / auto transparent;
-  flex: 0 1 170px;
-  margin: 0px;
-  padding: 0px;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  font-family: sans-serif;
+.second-row {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: transparent;
+  align-content: center;
+  height: 150px;
 }
 
-.logo-img {
-  width: 100%;
+.logo1 {
+  width: 200px;
   height: auto;
-  object-fit: fill;
-  border-radius: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  font-family: sans-serif;
+}
+
+.logo2 {
+  width: 200px;
+  height: auto;
+}
+
+.logo3 {
+  width: 200px;
+  height: auto;
+}
+
+.logo4 {
+  width: 200px;
+  height: auto;
+}
+
+.logo5 {
+  width: 200px;
+  height: auto;
+}
+
+.logo6 {
+  width: 200px;
+  height: auto;
+}
+
+.logo7 {
+  width: 200px;
+  height: auto;
+}
+
+.logo8 {
+  width: 200px;
+  height: auto;
+}
+
+.logo9 {
+  width: 200px;
+  height: auto;
+}
+
+.logo10 {
+  width: 200px;
+  height: auto;
+}
+
+.logo11 {
+  width: 200px;
+  height: auto;
+}
+
+.logo12 {
+  width: 200px;
+  height: auto;
 }
 /* Our Partners ends */
 
@@ -785,7 +730,7 @@ button {
   align-items: center;
 }
 
-/*/*contact*/
+/*contact*/
 .contact {
   display: flex;
   -webkit-box-pack: center;
@@ -814,7 +759,7 @@ button {
   box-sizing: border-box;
   top: 260%;
   width: 100%;
-  right: 530px;
+  right: 500px;
 }
 .contact-d3 {
   display: flex;
@@ -968,8 +913,7 @@ button {
   height: auto;
   justify-content: center;
   width: 100%;
-  margin: 20px 0px;
-  padding: 0px;
+  margin: 15px 0px;
 }
 
 .link-social-media {
@@ -979,72 +923,73 @@ button {
   margin: 0px 10px;
   font-weight: 300;
   margin-bottom: 40px;
+  padding: 1px;
+
 }
 
 .icon-social-media {
   width: 26px;
   height: 26px;
+
 }
 
 /* Our Core Values */
 
 .margin-our-core-values {
-margin: 10px 10px 10px;
 justify-content: center;
 width: 88%;
 height: 60%;
 position:relative;
-box-shadow: none;
 background: none;
-margin-left: 6%;
+margin-left: 12%;
 }
 
-.rectangle-core-values {
- margin: 20px 20px 20px 20px;
- background-color: rgb(248, 249, 252);
-}
 
 .values-frame {
-margin: 20px 20px 20px 20px;
+margin: 20px 20px 20px 80px;
 }
 
 .column {
-float: left;
+float: right;
 width: 50%;
-padding: 40px;
+padding: 30px;
+margin: 0 0 -20px;
 box-sizing: border-box;
-line-height: 160%;
+line-height: 140%;
 font-size: 16px;
 font-family:monospace;
-height: 50%;
+background-color: rgb(248 249 252);
+
 }
 
 .title {
-  padding: 50px 0px 0px 38px;
   color:rgb(28, 34, 148);
   font-size: 24px;
   line-height: 140%;
-  margin-bottom: 20px;
+  margin:30px 0 0 40px;
   text-transform: uppercase;
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
-  color: rgb(28, 34, 148);
   text-align: left;
   max-width: none;
+  
 }
 
 .subtitle {
   font-size: 20px;
-  line-height: 140%;
+  line-height: 120%;
   font-family: sans-serif;
   font-weight: 700;
   color: rgb(28, 34, 148);
+
 }
 
 .paragraph {
   color: rgb(45, 48, 55);
   float:left;
   font-family: monospace;
+  
+
 }
 
 .paragraph {
